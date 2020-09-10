@@ -68,7 +68,7 @@ Si quieres correr nuestros proyectos, te recomendamos instalar la versión 3.7, 
 3. Quieres descargar nuestro proyecto? Sientete libre de hacerlo, puedes dirigirte aquí:
 :point_down: :point_down:
 
-![Git](/Users/crys/Desktop/PythonProjects-SWISE/Git.png)
+![Git](Git.png)
 
 4. Quieres dar sugerencias? Sientete libre: Es open source. Pueden ingresar a [Issues](https://github.com/CrysthelAparicio/PythonProjects-SWISE/issues):
 
@@ -90,7 +90,7 @@ Si quieres correr nuestros proyectos, te recomendamos instalar la versión 3.7, 
 ### Contributors 👥👥
 
 <a href="https://github.com/CrysthelAparicio/PythonProjects-SWISE/graphs/contributors">
-    <img src="/Users/crys/Desktop/PythonProjects-SWISE/colab.png" />
+    <img src="colab.png" />   
 </a>
 
 - **[@CrysthelAparicio](https://github.com/CrysthelAparicio)** 👩🏻‍💻
