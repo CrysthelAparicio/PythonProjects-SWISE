@@ -57,7 +57,7 @@ HEIGHT = 20
 
 def clear_screen():
     os.system("cls")
-    
+
 class Cuadrado:
     def __init__(self,col):
         self.col = col
