@@ -31,6 +31,42 @@ Hemos realizado los siguientes proyectos:
  - Cinemática 🚀
  - Text Game en nuestro caso un Tetris 🕹
 
+## Instalación
+### Clone
+
+- Clona este repo con el siguiente comando desde tu terminal `git clone https://github.com/CrysthelAparicio/PythonProjects-SWISE.git`
+
+### Configuracíon
+
+- Para ver el primer proyecto lo puedes hacer desde jupyter notebook o google colab.
+
+- Cada proyecto estará guardado en una carpeta diferente:
+
+> colocate dentro del proyecto y haz lo siguiente: 
+
+```shell
+$ cd PythonProjects-SWISE
+$ ls
+```
+![Git](git1.png)
+
+> entra en una carpeta: 
+
+```shell
+$ cd Proyecto2
+$ ls
+```
+![Git](git2.png)
+
+> a correr las versiones de tetris: 
+
+```shell
+$ python tetriss.py
+$ python tetris.py
+```
+![Git](gifT.gif)
+![Git](gifX.gif)
+
 <hr>
 
 ### Sobre SWISE
@@ -140,7 +176,9 @@ Para esta actividad, decidimos realizar el Tetris, basándonos en las experienci
 - [x] itertools
 - [x] scipy.stats
 - [x] random
-- [ ] Curses
+- [x] Curses
+- [x] time
+- [x] copy
 
 <hr>
 
@@ -154,3 +192,5 @@ Para esta actividad, decidimos realizar el Tetris, basándonos en las experienci
 - **[@alcantaraoscar](https://github.com/alcantaraoscar)** 🧑🏻‍💻 
 - **[@dacosta16](https://github.com/dacosta16)** 👨🏻‍💻
 - **[@Adriana-Elizabeth-Salgado](https://github.com/Adriana-Elizabeth-Salgado)** 👩🏻‍💻
+
+Hecho con :heart: y Python.
