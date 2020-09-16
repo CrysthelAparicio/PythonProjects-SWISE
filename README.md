@@ -48,8 +48,7 @@ Hemos realizado los siguientes proyectos:
 $ cd PythonProjects-SWISE
 $ ls
 ```
-
-<img src="git1.png"/>
+![Git](git1.png)
 
 > entra en una carpeta: 
 
@@ -57,8 +56,7 @@ $ ls
 $ cd Proyecto2
 $ ls
 ```
-
-<img src="git2.png"/>
+![Git](git2.png)
 
 > a correr las versiones de tetris: 
 
@@ -66,10 +64,8 @@ $ ls
 $ python tetriss.py
 $ python tetris.py
 ```
-
-<img src="gifT.gif"/>
-
-<img src="gifX.gif"/>
+![Git](gifT.gif)
+![Git](gifX.gif)
 
 <hr>
 
@@ -189,7 +185,7 @@ Para esta actividad, decidimos realizar el Tetris, basándonos en las experienci
 ### Contributors 👥👥
 
 <a href="https://github.com/CrysthelAparicio/PythonProjects-SWISE/graphs/contributors">
-    <img src="colab.png"/>   
+    <img src="colab.png" />   
 </a>
 
 - **[@CrysthelAparicio](https://github.com/CrysthelAparicio)** 👩🏻‍💻
