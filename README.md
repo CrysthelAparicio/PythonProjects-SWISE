@@ -166,6 +166,27 @@ Para esta actividad, decidimos realizar el Tetris, basándonos en las experienci
     
 * **Totalmente basado en texto**, sin importar paquetes adicionales a: Pandas, Geopandas, Numpy y los incluidos en la base de Python (y paquetes de estética como pprint). El desarrollo del juego está únicamente orientado a objetos, mediante clases, métodos y herencias, así como arreglos. De igual forma se puede observar al ejecutar que las piezas están formadas por símbolos como “x” .
 
+# Descripción del juego de Star Wars---Proyecto Final Pygame
+
+El juego de distaparos (shooter), está basado en la librería **Pygame**, en el cual utilizamos distintas herramientas para lograr correr el juego y crear un entorno llamativo para el usuario, mediante una serie de imáneges.png.
+El escenario del juego, consta de un fondo, simula el espacio exterior, en el cual una nave será la encargada de disparar a los meteoritos (enemigos) y acumular la mayor cantidad de puntos. Cabe destacar que si la nave recibe cuatro golpes de los asteroides, el juego se reiniciará. Por lo que es conveniente el detectar las coliciones mediante *spritcolide*. 
+
+Para lograr que la nave dispare a los meteoros, se programa una función para crear una bala cada vez que se presione la barra de espacio.Así mismo el marcador del puntaje, para que el usuario observe su progreso en el juego, . Para dar un dramatismo al juego, se pueden incluir las imágenes necesarias para que la explosión del enemigo sea más llamtiva. Se agregó sonido al juego para que se reproduzca a medida éste vaya eliminando los meteoritos, esto mediante un ciclo *For*. 
+
+Debemos tomar en cuenta que para el juego funciones, debe tener tener instalado las siguientes librerias:
+
+* **Pyflakes:** La cual es una herramienta de análisis de código Python,puede detectar potenciales problemas como:
+
+    * Módulos importados sin usar.
+    * Variables sin usar.
+Para instalarlo, colocar en la terminal: *pip install pyflakes*
+
+
+* **Pygame:** Es un módulo del lenguaje de programación Python que permiten la creación de videojuegos en dos dimensiones de una manera sencilla. Mediante PyGame podemos utilizar sprites (objetos), cargar y mostrar imágenes en diferentes formatos, sonidos, etc. Además, al ser un módulo destinado a la programación de videojuegos se puede monitorizar el teclado o joystick de una manera bastante sencilla.
+
+Para instalarlo, colocar en la terminal: *pip install pygame*
+
+
 <hr>
 
 ### Líbrerias que utilizamos
